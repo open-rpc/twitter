@@ -1,1 +1,1 @@
-@InputOutputHK added @open_rpc support including .discover method for the Example EVM sidechain Testnet on #Cardano. Check it out in the playground https://playground.open-rpc.org/?schemaUrl=https://faucet.sidechain.evmtestnet.iohkdev.io/ #Ethereum
+Just in: @InputOutputHK added @open_rpc support including rpc.discover method for the Example EVM sidechain Testnet on #Cardano. Check it out in the playground https://playground.open-rpc.org/?schemaUrl=https://faucet.sidechain.evmtestnet.iohkdev.io/ #Ethereum
